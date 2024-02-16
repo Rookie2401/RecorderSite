@@ -59,13 +59,18 @@ header {
 }
 
 @media (max-width: 590px) {
+
     h1 {
         display: none;
+    }
+
+    #petitionLink {
+        margin: 5rem 0rem 5rem 0rem;
     }
 
     #mainBodyInfo {
         display: flex;
         flex-direction: column-reverse;
-        max-width: 10rem;
+        max-width: 25rem;
     }
 }
