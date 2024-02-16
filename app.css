@@ -62,4 +62,9 @@ header {
     h1 {
         display: none;
     }
+
+    #mainBodyInfo {
+        display: flex;
+        flex-direction: column;
+    }
 }
