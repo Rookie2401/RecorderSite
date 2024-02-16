@@ -57,3 +57,9 @@ header {
     justify-content: left;
     align-items: center;
 }
+
+@media (max-width: 590px) {
+    h1 {
+        display: none;
+    }
+}
