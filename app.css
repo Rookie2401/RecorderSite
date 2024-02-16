@@ -65,6 +65,7 @@ header {
 
     #mainBodyInfo {
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
+        max-width: 10rem;
     }
 }
